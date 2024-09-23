@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "f12263a1ddcf0168",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9b4f11c800159c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "951ca5e3c11ca5e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/MySQL笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "961ea194bc98de1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60d021c1c929786",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fa4095c08d60a2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1f47f155724b7b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "525ecbf2a7e99f1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adb509d18a226821",
+    "type": "split",
+    "children": [
+      {
+        "id": "409aebaa9854b6e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a43b08c4144df2be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/MySQL笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e255d5f7df03216",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/MySQL笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25330722a4192acc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c679495d62950cde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/MySQL笔记.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "951ca5e3c11ca5e4",
+  "lastOpenFiles": [
+    "_posts/2024-09-23-blog-post-1.md",
+    "_posts/MySQL笔记.md",
+    "2024-07-21.md",
+    "CONTRIBUTING.md",
+    "_posts/2024-07-21-blog-post-1.md",
+    "_posts/2012-08-14-blog-post-1.md"
+  ]
+}
