@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * M.S. in Northwestern Polytechnical University, 2024
-* B.S. in Henan University, 2020
 
 Project experience
 ======
@@ -31,4 +30,4 @@ Skills
 
 Publications
 ======
- 
+
